@@ -26,8 +26,8 @@ Goal: เตรียมตัวสหกิจและสมัคร Backend
 ### Week 01 - 10/09/2026 to 16/09/2026
 
 Backend:
-- [ ] Git fundamentals
-- [ ] Linux / CLI fundamentals
+- [x] Git fundamentals 10/09/26
+- [x] Linux / CLI fundamentals 11/09/26
 - [ ] HTTP fundamentals
 - [ ] REST API fundamentals
 
@@ -522,4 +522,4 @@ The certification is optional.
 
 The primary goal is to have a real Backend project that can be deployed, monitored, secured, and operated on AWS.
 
-The certification should support the project, not replace the project.
+The certification should support the project, not replace the project.lk;
