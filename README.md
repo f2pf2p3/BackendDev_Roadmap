@@ -28,8 +28,8 @@ Goal: เตรียมตัวสหกิจและสมัคร Backend
 Backend:
 - [x] Git fundamentals 10/09/26
 - [x] Linux / CLI fundamentals 11/09/26
-- [ ] HTTP fundamentals
-- [ ] REST API fundamentals
+- [x] HTTP fundamentals 13/09/26
+- [x] REST API fundamentals 13/09/26
 
 AWS Skill Builder:
 - [ ] AWS Cloud Essentials / Foundations
@@ -522,4 +522,4 @@ The certification is optional.
 
 The primary goal is to have a real Backend project that can be deployed, monitored, secured, and operated on AWS.
 
-The certification should support the project, not replace the project.lk;
+The certification should support the project, not replace the project.
