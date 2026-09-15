@@ -32,8 +32,8 @@ Backend:
 - [x] REST API fundamentals 13/09/26
 
 AWS Skill Builder:
-- [ ] AWS Cloud Essentials / Foundations
-- [ ] AWS Console basics
+- [x] AWS Cloud Essentials / Foundations
+- [x] AWS Console basics
 - [ ] AWS billing basics
 
 
